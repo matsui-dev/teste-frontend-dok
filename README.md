@@ -42,11 +42,11 @@
 <p>Seu projeto DEVE:</p>
 
 <ol>
-  <li>Usar apenas linguagens e bibliotecas open-source</li>
-  <li>Ter estilos CSS e nomeclatura consistentes no seu código</li>
-  <li>Usar marcação semântica</li>
-  <li>Tirar máximo proveito do framework Bootstrap</li>
-  <li>Esteja atento ao desempenho</li>
+  <li>Usar apenas linguagens e bibliotecas open-source;</li>
+  <li>Ter estilos CSS e nomeclatura consistentes no seu código;</li>
+  <li>Usar marcação semântica;</li>
+  <li>Tirar máximo proveito do framework Bootstrap;</li>
+  <li>Esteja atento ao desempenho.</li>
 </ol>
 
 <h2>Avaliação</h2>
@@ -54,7 +54,7 @@
 <p>O seu projeto vai ser avaliado pelos seguintes critérios:</p>
 
 <ol>
-  <li>Você preenche os requerimentos básicos do projeto?</li>
+  <li>Você preencheu os requerimentos básicos do projeto?</li>
   <li>Você seguiu com precisão as especificações do projeto?</li>
   <li>Qualidade do código em si, como está estruturado e como cumpre as boas práticas modernas;</li>
   <li>Familiaridade com as bibliotecas padrão das linguagens utilizadas e outros pacotes;</li>
