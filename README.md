@@ -2,7 +2,7 @@
 
 <p>A ideia deste teste é ajudar a avaliar melhor as suas habilidades para a vaga de desenvolvedor, em vários níveis de experiência.</p>
 
-<p>Este teste deve ser feito por você sozinho, no seu próprio tempo. Demore o tempo que for necessário, mas geralmente esse teste não deve levar mais do que algumas horas para ser feito.</p>
+<p>Este teste deve ser feito por você sozinho, no seu próprio tempo.</p>
 
 <h2>Instruções de entrega</h2>
  
